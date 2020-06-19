@@ -32,7 +32,7 @@ export * from '@coveops/dependent-hierarchical-facet'
 
 4. Include the component in your template as follows:
 
-Place the component after the last tab in the `coveo-tab-section`
+Place the component in your markup amongst your other facets under `coveo-facet-column`
 
 ```html
 <div class="CoveoDependentHierarchicalFacet"></div>
